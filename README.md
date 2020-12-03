@@ -1,4 +1,4 @@
-# Localisation-Project---RSEND-project-3
+# Localisation-Project
 
 Project will create a 2D occupancy grid and 3D octomap from a simulated environment using your own robot with the RTAB-Map package.
 
